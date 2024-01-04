@@ -87,6 +87,8 @@
 
 ## Projects 
 [![HyperCurl](https://github-readme-stats.vercel.app/api/pin/?username=mohxssann&repo=HyperCurl&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MOHXSSANN/HyperCurl)
+[![TuneSync](https://github-readme-stats.vercel.app/api/pin/?username=mohxssann&repo=TuneSync&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MOHXSSANN/TuneSync)
+
 [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=MOHXSSANN&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MOHXSSANN/al-folio)
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=MOHXSSANN&repo=MOHXSSANN&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MOHXSSANN/MOHXSSANN)
 [![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=MOHXSSANN&repo=MOHXSSANN.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MOHXSSANN/MOHXSSANN.github.io)
