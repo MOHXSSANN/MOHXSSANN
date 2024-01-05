@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
- <a href="https://MOHXSSANN.com" target="blank">
+ <a href="https://mohxssann.github.io/3D-Portfolio/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="MOHXSSANN" />
  </a>
  <a href="https://www.linkedin.com/in/mohammed-h-20a63a1a7/" target="_blank">
