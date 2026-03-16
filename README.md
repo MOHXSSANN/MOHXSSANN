@@ -23,11 +23,11 @@
 
 <br/>
 
-&nbsp;&nbsp;🔭 &nbsp;Building **Radiance Vault** — secure doc search & classification at CBSA
-&nbsp;&nbsp;🔒 &nbsp;Deep interest in **cybersecurity & secure system design**
-&nbsp;&nbsp;🤖 &nbsp;Exploring **AI/ML integration** into production systems
-&nbsp;&nbsp;💬 &nbsp;Talk to me about **Python, TypeScript, full-stack dev, or security**
-&nbsp;&nbsp;🏐 &nbsp;I also run **Ottawa Volleyball Revival** — tournaments with 150+ attendees
+&nbsp;&nbsp; &nbsp;Building **Radiance Vault** — secure doc search & classification at CBSA
+&nbsp;&nbsp; &nbsp;Deep interest in **cybersecurity & secure system design**
+&nbsp;&nbsp; &nbsp;Exploring **AI/ML integration** into production systems
+&nbsp;&nbsp; &nbsp;Talk to me about **Python, TypeScript, full-stack dev, or security**
+&nbsp;&nbsp; &nbsp;I also run **Ottawa Volleyball Revival** — tournaments with 150+ attendees
 
 <br/>
 
