@@ -12,7 +12,7 @@
 
 ## ⚡ About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:16px; margin-left:20px"/>
+<img align="right" width="280" src="https://raw.githubusercontent.com/MOHXSSANN/MOHXSSANN/main/image.png" style="border-radius:16px; margin-left:20px"/>
 
 &nbsp;&nbsp;Hi! I'm **Mo**, a third-year **CS & Cybersecurity** student at
 &nbsp;&nbsp;**Carleton University**, working as a **Junior Developer at CBSA**
