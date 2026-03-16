@@ -12,7 +12,7 @@
 
 ## ⚡ About Me
 
-<img align="right" width="180" height="180" src="./image.png" style="border-radius:16px; margin-left:20px; object-fit:cover; object-position:top"/>
+<img align="right" width="250" height="250" src="./image.png" style="border-radius:16px; margin-left:20px; object-fit:cover; object-position:top"/>
 
 &nbsp;&nbsp;Hi! I'm **Mo**, a third-year **CS & Cybersecurity** student at
 &nbsp;&nbsp;**Carleton University**, working as a **Junior Developer at CBSA**
